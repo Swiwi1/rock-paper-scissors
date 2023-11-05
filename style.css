@@ -1,0 +1,36 @@
+body {
+    background: rgb(10, 99, 155);
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    position: relative;
+    margin-left: 530px;
+    margin-top: 100px;
+    gap: 10px;
+}
+
+.hands {
+    padding: 70px;
+    border-radius: 7px;
+    background: black;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+    align-items: center;
+}
